@@ -1,7 +1,7 @@
 # Laboratorio di Programmazione Geometrica e Grafica
 ## [2017-2018](http://www.dia.uniroma3.it/~paoluzzi/web/did/labgrafica/2018/index.html)
 
-### Wokshop
+### Workshop
 
 #### [Workshop_00 (2017-10-16)](https://github.com/blackjack-ad/ggpl/blob/master/2017-10-16/workshop_00.ipynb)
 
