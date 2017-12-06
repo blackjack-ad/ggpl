@@ -17,4 +17,6 @@
 
 #### • [Workshop_06 (2017-11-27)](https://github.com/blackjack-ad/ggpl/blob/master/2017-11-27/Workshop_6.ipynb)
 
+#### • [Workshop_07 (2017-12-06)](https://github.com/blackjack-ad/ggpl/blob/master/2017-12-04/Workshop_07.ipynb)
+
 
