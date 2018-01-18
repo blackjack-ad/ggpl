@@ -21,4 +21,6 @@
 
 #### • [Workshop_08 (2017-12-11)](https://github.com/blackjack-ad/ggpl/blob/master/2017-12-04/Workshop_07.ipynb) (in questo workshop ci è stato rischiesto di completare il workshop precedente)
 
+#### • [Workshop_09 (2017-12-18) - Villa Pisani di Bagnolo](https://github.com/blackjack-ad/ggpl/blob/master/2017-12-18/Workshop_09.ipynb) (in questo workshop ci è stato rischiesto di completare il workshop precedente)
+
 
